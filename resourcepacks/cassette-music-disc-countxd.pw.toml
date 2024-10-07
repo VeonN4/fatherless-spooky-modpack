@@ -1,0 +1,13 @@
+name = "Cassette Music Disc"
+filename = "cassette music discs 1.20 v1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b85aac4f0ad0e82b322a05c314d14aa529fde4da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4572366
+project-id = 859499

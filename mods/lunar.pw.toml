@@ -1,0 +1,13 @@
+name = "Lunar"
+filename = "Lunar-forge-1.20.1-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fe3c78e291f2a6a773b9e57bd166e2f0700187a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5565980
+project-id = 602312

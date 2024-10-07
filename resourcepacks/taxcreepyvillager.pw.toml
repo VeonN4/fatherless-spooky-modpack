@@ -1,0 +1,13 @@
+name = "Tax' Creepy Villager"
+filename = "TaxCreepyVillager+M.1.20.1+ResP.1.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "064597eed87f7f8691da0efe458aa28db40cea1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5763152
+project-id = 1109932

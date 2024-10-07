@@ -1,0 +1,13 @@
+name = "Whispering Spirits"
+filename = "WhisperingSpirits-forge-1.20.1-v1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6807911d5f2f8389a6a2f208a52a18c64b574f03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5535760
+project-id = 983684

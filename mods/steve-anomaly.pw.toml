@@ -1,0 +1,13 @@
+name = "Red's Anomaly"
+filename = "anomaly-1.9.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "727eb2f7b5ce229586d0ffa1c0c072d3fb7dd3a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5686632
+project-id = 1074293

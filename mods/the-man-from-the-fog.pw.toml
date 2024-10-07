@@ -1,0 +1,13 @@
+name = "The Man From The Fog"
+filename = "The-Man-From-The-Fog-1.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "127765d1dfc5fe76ebe7396e033fd0d21cce8db1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5361339
+project-id = 890565

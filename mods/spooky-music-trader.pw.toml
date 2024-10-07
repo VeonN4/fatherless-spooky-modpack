@@ -1,0 +1,13 @@
+name = "Leon's & Tax' Spooky Music Trader"
+filename = "LeonsSpookyMusic+M1.20.1+ForM.1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97d41d3162ac7e4f93eb0cf34f85f88334d2dc49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5670919
+project-id = 1090235

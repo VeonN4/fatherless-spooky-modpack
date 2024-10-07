@@ -1,0 +1,13 @@
+name = "Variant Tools and Weaponry - More Weapons"
+filename = "vtaw_mw-forge-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81068f93fa0a38ff339751ecfc8680e896d020fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4619419
+project-id = 637284

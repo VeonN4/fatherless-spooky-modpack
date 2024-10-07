@@ -1,0 +1,13 @@
+name = "DrDestens MCShaders"
+filename = "DrDestens MinecraftShaders v2.0.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e8210e014fcdef11e44b26f911046fdde9bab4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5488559
+project-id = 508365

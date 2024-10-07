@@ -1,0 +1,13 @@
+name = "Tax' Creepy Musician"
+filename = "TaxCreepyMusician+M.1.20.1+ResP.1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d74b88f7a99dfbe66e422b4f82b6a3fae1dc20a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5763127
+project-id = 1110700
