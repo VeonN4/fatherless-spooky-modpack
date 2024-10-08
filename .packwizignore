@@ -1,0 +1,8 @@
+# Exclude packwiz
+packwiz.Exclude
+
+# Exclude README
+/README.md
+
+# Exclude dist folder
+dist/*
