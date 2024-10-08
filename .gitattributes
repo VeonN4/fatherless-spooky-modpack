@@ -1,0 +1,2 @@
+# Disable GIt line ending conversion, to prevent packwiz index hashes chnging when comitting from Windows
+* -text
