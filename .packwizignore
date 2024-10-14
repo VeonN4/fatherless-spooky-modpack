@@ -4,5 +4,8 @@ packwiz.exe
 # Exclude README
 /README.md
 
+# Exclude build.bat
+build.bat
+
 # Exclude dist folder
 dist/*
