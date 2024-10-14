@@ -10,7 +10,6 @@ Welcome to the Fatherless Spooky modpack repository for our private server named
 ### CurseForge
 
 1. Download and install [CurseForge](https://www.curseforge.com/download/app).
-2. Download the latest release of the modpack.
 3. Open the CurseForge app.
 4. Search for **Fatherless Spooky Modpack**.
 5. Play the game.
@@ -18,7 +17,7 @@ Welcome to the Fatherless Spooky modpack repository for our private server named
 ### CurseForge Manual
 
 1. Download and install [CurseForge](https://www.curseforge.com/download/app).
-2. Download the latest release of the modpack.
+2. Download the [latest release](https://github.com/VeonN4/fatherless-spooky-modpack/releases) of the modpack.
 3. Open the CurseForge app.
 4. Select Minecraft.
 5. Import the modpack ZIP file.
