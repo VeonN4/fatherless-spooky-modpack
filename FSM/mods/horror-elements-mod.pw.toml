@@ -1,0 +1,13 @@
+name = "Horror Elements mod"
+filename = "horror_element_mod-1.6.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92bc79e0a851a8ec9d7e66a0d38d9ce0d097cd68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5643969
+project-id = 496520

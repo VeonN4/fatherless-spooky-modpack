@@ -10,7 +10,6 @@ Welcome to the Fatherless Spooky modpack repository for our private server named
 ### CurseForge
 
 1. Download and install [CurseForge](https://www.curseforge.com/download/app).
-2. Download the latest release of the modpack.
 3. Open the CurseForge app.
 4. Search for **Fatherless Spooky Modpack**.
 5. Play the game.
@@ -18,7 +17,7 @@ Welcome to the Fatherless Spooky modpack repository for our private server named
 ### CurseForge Manual
 
 1. Download and install [CurseForge](https://www.curseforge.com/download/app).
-2. Download the latest release of the modpack.
+2. Download the [latest release](https://github.com/VeonN4/fatherless-spooky-modpack/releases) of the modpack.
 3. Open the CurseForge app.
 4. Select Minecraft.
 5. Import the modpack ZIP file.
@@ -41,12 +40,20 @@ Welcome to the Fatherless Spooky modpack repository for our private server named
 
 - Are you serious right now?
 
-# Contributing
-If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
-# License
-This project is licensed under an Unlicense license. This license does not require you to take the license with you to your project.
+### Troubleshooting and Support
 
-# Acknowledgments
-- Packwiz for the modpack management tool.
-- The Minecraft modding community for their amazing mods, that I could just yoinked
+If you encounter any issues or need assistance, consult the Issues page.
+
+### License
+
+This project is licensed under the [CC0 1.0 Universal License](LICENSE).
+
+### Acknowledgments
+
+- This project makes effective use of GitHub Actions and various tools to automate the modpack release process.
+- Special thanks to [ParadigmMC](https://github.com/ParadigmMC/) for the GitHub Actions template
+
+---
+
+Contributions, feedback, and improvements are warmly welcomed! Let's propel this project forward together! 🚀

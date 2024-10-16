@@ -1,0 +1,8 @@
+[
+    {
+        "mob": ["the_knocker:knocker", "the_knocker:knockerdeadanimal", "the_knocker:knockerstalk", "the_knocker:knockerstalklooked", "undead_revamp2:bigsucker", "undead_revamp2:sucker"],
+        "dimension": "minecraft:the_end",
+        "when": "onjoin",
+        "result": "deny"
+    }
+]

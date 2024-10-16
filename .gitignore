@@ -1,11 +1,14 @@
-# Exclude packwiz
-packwiz.exe
-
-# Exclude dist folder
-dist/*
-
 # Exclude exported CurseForge zip files
 *.zip
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude .direnv
+.direnv
+
+# Eclude precommit hooks config
+.pre-commit-config.yaml
+
+# Exclude packwiz.exe
+packwiz.exe

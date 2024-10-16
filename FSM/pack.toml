@@ -1,0 +1,13 @@
+name = "fatherless-spooky-modpack"
+author = "Veonise"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ef9e998acd81b4a30c759e21127ee8fc95c46948ab46152ffb570a6770d28ad3"
+
+[versions]
+forge = "47.3.11"
+minecraft = "1.20.1"
