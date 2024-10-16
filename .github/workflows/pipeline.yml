@@ -8,7 +8,7 @@ on:
 env:
   pack-file: 'pack.toml'
   default-release-modrinth: 'true'
-  default-release-curseforge: 'false'
+  default-release-curseforge: 'true'
 
 
 jobs:
@@ -137,7 +137,21 @@ jobs:
         shell: bash
         if: ${{ steps.release-please.outputs.releases_created }}
 
+      - name: Download DrDestens MinecraftShaders v2.0.4.zip
+        run: curl https://mediafilez.forgecdn.net/files/5488/559/DrDestens%20MinecraftShaders%20v2.0.4.zip --create-dirs -o "/home/runner/.cache/packwiz/cache/import/DrDestens MinecraftShaders v2.0.4.zip"
 
+      - name: Download cassette music discs 1.20 v1.2.zip
+        run: curl https://mediafilez.forgecdn.net/files/4572/366/cassette%20music%20discs%201.20%20v1.2.zip --create-dirs -o "/home/runner/.cache/packwiz/cache/import/cassette music discs 1.20 v1.2.zip"
+
+      - name: Download LeonsSpookyPaintings+M.1.20.1+ForM.2.1.0.jar
+        run: curl https://mediafilez.forgecdn.net/files/5382/171/LeonsSpookyPaintings%2BM.1.20.1%2BForM.2.1.0.jar --create-dirs -o "/home/runner/.cache/packwiz/cache/import/LeonsSpookyPaintings+M.1.20.1+ForM.2.1.0.jar"
+
+      - name: Download anomaly-1.9.0-forge-1.20.1.jar
+        run: curl https://mediafilez.forgecdn.net/files/5686/632/anomaly-1.9.0-forge-1.20.1.jar --create-dirs -o "/home/runner/.cache/packwiz/cache/import/anomaly-1.9.0-forge-1.20.1.jar"
+
+      - name: Download VibrativeVoice-forge-1.20.1-1.1.0.jar
+        run: curl https://mediafilez.forgecdn.net/files/5473/879/VibrativeVoice-forge-1.20.1-1.1.0.jar --create-dirs -o "/home/runner/.cache/packwiz/cache/import/VibrativeVoice-forge-1.20.1-1.1.0.jar"
+      
       - name: Build Modpack
         uses: ./.github/actions/build
         with:
